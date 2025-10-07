@@ -83,13 +83,13 @@ plt.show()
 <img width="146" height="210" alt="download" src="https://github.com/user-attachments/assets/65275d7c-19e9-4c51-953d-28d862491db5" />
 
 ## Global Thresholding
-<img width="483" height="469" alt="download" src="https://github.com/user-attachments/assets/fdcd4e26-f6f7-4d41-b6a1-a502556952d0" />
+<img width="226" height="289" alt="Screenshot 2025-10-07 160321" src="https://github.com/user-attachments/assets/68f95e0a-ae55-457e-9ec8-dd5ef85641c3" />
 
 ## Adaptive Thresholding
-<img width="483" height="469" alt="download" src="https://github.com/user-attachments/assets/b18980c6-61a0-4f18-9bd6-b82e395cdcab" />
+<img width="257" height="305" alt="Screenshot 2025-10-07 160334" src="https://github.com/user-attachments/assets/73098431-6798-4d68-9bdf-c1586d405bca" />
 
 ## Optimum Global Thesholding using Otsu's Method
-<img width="483" height="469" alt="download" src="https://github.com/user-attachments/assets/098ba9f9-5144-4f3f-9740-2c54d9a664f0" />
+<img width="234" height="299" alt="Screenshot 2025-10-07 160327" src="https://github.com/user-attachments/assets/ef979c4b-a60e-4aa9-9fe3-e6f96bebe9ac" />
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
